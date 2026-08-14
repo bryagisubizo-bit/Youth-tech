@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "rootDirectory": ".",
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist/public",
+  "installCommand": "pnpm install",
+  "framework": null
+}
